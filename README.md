@@ -1,10 +1,46 @@
-# Raphael França
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-Frontend Developer
+<h3>Sobre mim</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Raphael%20França-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-fernandes-franca/)](https://www.linkedin.com/in/raphael-fernandes-franca/) 
-[![Gmail Badge](https://img.shields.io/badge/-raphaelfranca4026gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelfranca4026@gmail.com)](mailto:raphaelfranca4026@gmail.com)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Ciência da Computação** na <a href="http://www.unifap.br/">UNIFAP - Universidade Federal do Amapá</a>.
+- 💼 Trabalhando como **Técnico de informática** na <a href="LINK DA EMPRESA">UNIFAP - Universidade Federal do Amapá</a>
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript | TypeScript**.
 
-Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora). Sou freelancer como Frontend Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
+<h3>Minhas Skills</h3>
 
-Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind_CSS)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Firebase)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
