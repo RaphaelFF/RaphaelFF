@@ -33,5 +33,5 @@
 <br/>
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Raphael_França-blue?style=flat-square&logo=Linkedin&logoColor=white&link=raphael-fernandes-franca)](raphael-fernandes-franca)
+[![Linkedin](https://img.shields.io/badge/-Raphael_França-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-fernandes-franca/)](https://www.linkedin.com/in/raphael-fernandes-franca/)
 [![Gmail Badge](https://img.shields.io/badge/-raphaelfranca4026@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelfranca4026@gmail.com)](mailto:raphaelfranca4026@gmail.com)
