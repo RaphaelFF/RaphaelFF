@@ -1,8 +1,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciência da Computação** na <a href="http://www.unifap.br/">UNIFAP - Universidade Federal do Amapá</a>.
-- 💼 Trabalhando como **Técnico de informática** na <a href="LINK DA EMPRESA">UNIFAP - Universidade Federal do Amapá</a>
+- 🎓 Estudando **Ciência da Computação** na <a href="https://www2.unifap.br/ccomputacao/o-curso/">UNIFAP - Universidade Federal do Amapá</a>.
+- 💼 Trabalhando como **Técnico de informática** na <a href="https://www2.unifap.br/nti/">UNIFAP - Universidade Federal do Amapá</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript | TypeScript**.
 
 <h3>Minhas Skills</h3>
