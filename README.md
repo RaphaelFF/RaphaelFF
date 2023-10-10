@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -19,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind_CSS)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 
 
 **DevOps**
@@ -35,9 +33,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 <h3>Onde me encontrar</h3>
 
