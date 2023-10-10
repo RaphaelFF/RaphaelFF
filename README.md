@@ -2,7 +2,7 @@
 
 Frontend Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-fernandes-franca/)](https://www.linkedin.com/in/raphael-fernandes-franca/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Raphael%20França-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-fernandes-franca/)](https://www.linkedin.com/in/raphael-fernandes-franca/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphaelfranca4026gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelfranca4026@gmail.com)](mailto:raphaelfranca4026@gmail.com)
 
 Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora). Sou freelancer como Frontend Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
