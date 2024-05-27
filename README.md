@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://www2.unifap.br/ccomputacao/o-curso/">UNIFAP - Universidade Federal do Amapá</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript | TypeScript**.
+
 
 <h3>Minhas Skills</h3>
 
@@ -17,6 +17,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind_CSS)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+![Firebase](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 
 
 **DevOps**
