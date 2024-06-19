@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://www2.unifap.br/ccomputacao/o-curso/">UNIFAP - Universidade Federal do Amapá</a>.
-- 🎓 Residente Tecnológico no <a href="https://www2.unifap.br/ccomputacao/o-curso/">TJAP - Tribunal de Justiça do Estado do Amapá</a>.
+- 🎓 Residente Tecnológico no <a href="https://www.tjap.jus.br/portal/">TJAP - Tribunal de Justiça do Estado do Amapá</a>.
 
 <h3>Minhas Skills</h3>
 
